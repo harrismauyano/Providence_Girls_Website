@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-cs@l2#1s22_44bgzfh$ad@9r=5mec(#ak+mxm95@z_)32hjc4(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['providence-girls-website.onrender.com']
 
 
 # Application definition
